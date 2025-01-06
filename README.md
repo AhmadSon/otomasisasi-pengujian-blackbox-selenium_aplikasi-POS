@@ -1,4 +1,5 @@
 # TIM NAME
+
 <body>
     <table border="1">
         <tr>
@@ -30,13 +31,15 @@
         </tr>
     </table>
 </body>
- 
+
+## Video Proses Pengujian
+
+[![Video Proses Pengujian](https://img.youtube.com/vi/knbpIPvQrRA/0.jpg)](https://youtu.be/knbpIPvQrRA)
+
 ## Hasil Pengujian
 ![](Image/hasil_pengujian1.png)
 ![](Image/hasil_pengujian2.png)
 ![](Image/hasil_pengujian3.png)
 
 # TERIMAKASIH
-Itu saja dari penjelasan kami. Untuk ke atas silahkan naik rocket ini:<P>
-[![](asset/giphy.gif)](#daftar-isi)
-
+Itu saja dari penjelasan kami.
