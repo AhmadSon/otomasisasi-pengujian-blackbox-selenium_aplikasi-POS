@@ -32,9 +32,9 @@
 </body>
  
 ## Hasil Pengujian
-[![](Image/hasil_pengujian1.png)]
-[![](Image/hasil_pengujian2.png)]
-[![](Image/hasil_pengujian3.png)]
+![](Image/hasil_pengujian1.png)
+![](Image/hasil_pengujian2.png)
+![](Image/hasil_pengujian3.png)
 
 # TERIMAKASIH
 Itu saja dari penjelasan kami. Untuk ke atas silahkan naik rocket ini:<P>
